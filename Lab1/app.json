@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Lab1",
+    "slug": "Lab1",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "ea3f9818-1b14-4f19-8d46-3d27418d40de"
+      }
+    }
+  }
+}
