@@ -1,11 +1,13 @@
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
+import { StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Open Up</Text>
+      <TouchableOpacity>
+        <Text>Open</Text>
+      </TouchableOpacity>
       <StatusBar style="auto" />
     </View>
   );
